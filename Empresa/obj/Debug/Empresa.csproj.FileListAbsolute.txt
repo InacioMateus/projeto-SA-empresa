@@ -1,0 +1,10 @@
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\Empresa.exe.config
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.FrmLogin.resources
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\Empresa.exe
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\Empresa.pdb
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.exe
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.pdb
