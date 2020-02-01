@@ -39,20 +39,23 @@ namespace Empresa
             String HashSenha = CrypHash.ComputeSha256Hash(objUsuario.senha);
             con.OpenConnection();
 
-            String sql = $"select * from tb_usuario where usuario = {objUsuario.user} and senha = {HashSenha} and status = true";
+            String sql = $"select * from tb_usuario where usuario = '{objUsuario.user}' and senha = '{HashSenha}' and status = true";
 
             MySqlDataReader reader;
 
             reader = con.executeQuery(sql);
 
-            if (reader.Read())
-            {
-                MessageBox.Show("Logou com sucesso!");
+            if (reader.HasRows)
+            {                
+                FrmTelaPrincipal principal = new FrmTelaPrincipal();
+                principal.Show();
+                this.Hide();
+
             }
 
             else
             {
-                MessageBox.Show("Não conectou!");
+                MessageBox.Show("Falha ao Logar!");
 
             }
         }

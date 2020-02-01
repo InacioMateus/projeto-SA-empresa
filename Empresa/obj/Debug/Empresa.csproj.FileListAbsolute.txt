@@ -8,3 +8,5 @@ C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\Empresa.pdb
 C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\bin\Debug\MySql.Data.dll
 C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.exe
 C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.pdb
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.FrmTelaPrincipal.resources
+C:\Users\Aluno\Desktop\Visual Studio\Empresa\Empresa\obj\Debug\Empresa.FrmSetor.resources
